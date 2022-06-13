@@ -1,5 +1,5 @@
 # ClocX_Skins
-This is simple and original skins of ClocX.
+Repository of ClocX skins.
 
 I discard all rights of contents in this repository. Those skins are all License Free. The text on the clock face uses free fonts.
 ClocX is a Software for Windows which made by Bohdan Rylko. For detailed infomation, please visit the link of "Website". 
