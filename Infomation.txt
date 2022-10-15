@@ -1,9 +1,11 @@
 (この外観はフリーフォントを使用しています｡製作者は著作権を放棄します｡)
 
-*使用したフォント (font)
+*使用したフォント (fonts)
 
-･tokei series - (https://www.fontspace.com/a-area-kilometer-50-font-f53888)
+・tokei series - (https://www.fontspace.com/a-area-kilometer-50-font-f53888)
 
-･square - (https://www.fontspace.com/rondal-font-f49787)
+・square and tntk - (https://www.fontspace.com/rondal-font-f49787)
+
+・smart series - (https://www.fontspace.com/warsaw-gothic-font-f22431)
 
 (This images and .ini files are license free.)
