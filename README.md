@@ -9,5 +9,6 @@ ClocX is a Software for Windows which made by Bohdan Rylko. For detailed infomat
 All files is in the .zip file.
 
 RIGHTS/権利表記
-I discard all rights of contents in this repository. Those skins are all License Free. The text on the clock face uses free fonts.
-製作者(MK-dev48)はこのレポジトリのファイルの権利を放棄します｡時計の文字盤の文字はフリーフォントを使用しています｡
+Creative Commons - BY-NC-SA
+The text on the clock face uses free fonts.
+時計の文字盤の文字はフリーフォントを使用しています｡
