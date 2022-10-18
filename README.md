@@ -6,7 +6,7 @@ ClocXとは､デスクトップ上にアナログ時計を表示できるWindow
 ClocX is a Software for Windows which made by Bohdan Rylko. For detailed infomation, please visit the link of "Website". 
 
 ファイルはすべてzipファイルにも入っています｡
-All flies is in the .zip file.
+All files is in the .zip file.
 
 RIGHTS/権利表記
 I discard all rights of contents in this repository. Those skins are all License Free. The text on the clock face uses free fonts.
