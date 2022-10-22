@@ -7,6 +7,7 @@ ClocX is a Software for Windows which made by Bohdan Rylko. For detailed infomat
 
 ファイルはすべてzipファイルにも入っています｡
 All files is in the .zip file.
+ZIPファイルの中身を C:\Program Files\ClocX\Presetsに入れれば使えるようになります｡ You can use the entire contents of the ZIP file by placing it in C:\Program Files\ClocX\Presets.
 
 RIGHTS/権利表記
 Creative Commons... CC BY-NC-SA
