@@ -1,11 +1,24 @@
-(この外観はフリーフォントを使用しています｡製作者は著作権を放棄します｡)
+使い方：
 
-*使用したフォント (fonts)
+ClocX_Skins.zip ファイルの中身を､ClocXのPresetsの中に入れてやると設定項目で選べるようになります｡/Place the contents of the ClocX_Skins.zip file in the Presets section of ClocX, and you will be able to select it in the settings.
+ColorfulTinyWatchfaceは量が多いので必要なぶんだけ取り出して､後は削除してもよいです｡
 
-・tokei series - (https://www.fontspace.com/a-area-kilometer-50-font-f53888)
 
-・square and tntk - (https://www.fontspace.com/rondal-font-f49787)
+著作権について：
 
-・smart series - (https://www.fontspace.com/warsaw-gothic-font-f22431)
+Creative Commons... CC BY-NC-SA
 
-(This images and .ini files are license free.)
+(時計盤にはフリーフォントを使用しています｡)
+
+*使用したフォント (fonts) 
+
+・tokei series and etc - a area kilometer 50
+(https://www.fontspace.com/a-area-kilometer-50-font-f53888)
+
+・square and tntk and wallclock series - rondal(https://www.fontspace.com/rondal-font-f49787)
+
+・smart series and 200x200outside - warsaw(https://www.fontspace.com/warsaw-gothic-font-f22431)
+
+・amikake series - Rounded M+ bold  
+(http://jikasei.me/font/rounded-mplus/about.html)
+
