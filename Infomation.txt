@@ -25,3 +25,6 @@ Creative Commons... CC BY-NC-SA
 ・wallclock metalic series - Fira Sans
 (https://fonts.google.com/specimen/Fira+Sans)
 
+・waris series - Barlow
+(https://fonts.google.com/specimen/Barlow)
+
