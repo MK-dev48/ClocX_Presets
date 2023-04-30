@@ -13,3 +13,5 @@ RIGHTS/権利表記
 Creative Commons... CC BY-NC-SA
 The text on the clock face uses free fonts.
 時計の文字盤の文字はフリーフォントを使用しています｡
+
+Thanks to the developer of ClocX (Bohdan Rylko ) for making awesome free software! ;)
